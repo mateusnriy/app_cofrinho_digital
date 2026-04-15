@@ -76,10 +76,12 @@ lib/
 
 ---
 
-## 👥 Autores
+## Desenvolvedores
 
-- [Mateus Neri](https://github.com/mateusnriy)
-- [Kaio França](https://github.com/kaiofranca)
+| Membro | GitHub |
+| :--- | :--- |
+| **Mateus Neri** | [@mateus](https://github.com/mateusnriy) |
+| **Kaio França** | [@kaio](https://github.com/kaiofranca) |
 
 ---
 
